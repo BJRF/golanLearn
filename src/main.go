@@ -9,4 +9,7 @@ func main() {
 	//coroutineTest()
 	//channelTest()
 	//interfaceTest()
+	mysqlTest()
+	//goServer()
+	//ginServer()
 }
