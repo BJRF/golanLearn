@@ -23,5 +23,9 @@ ORMTest.go 测试ORM Mysql
 goServer.go 测试go自带http服务
 
 ginServer.go 测试gin框架的http服务
+## 2023.3.30
+PanicTest.go 抛出和抓取error实践
+
+SyncTest.go go同步实践，涉及到channel锁、Wait同步、sync.Once初始化配置、互斥锁、读写锁、死锁场景、golang安全map实践、sync.Atomic
 
 
