@@ -14,6 +14,7 @@ import (
 
 /*
 跑单测的命令：go test main.go interfaceTest.go main_test.go --test.run TestRect
+查看覆盖率: go test -cover
 */
 // 对Rect实现的Shape接口做单测
 func TestRect(t *testing.T) {

@@ -24,5 +24,10 @@ func main() {
 	//DeadlockScenario2()
 	//MySyncMapTest()
 	//SyncMapTest()
-	AtomicTest()
+	//AtomicTest()
+	//SelectTest()
+	//ContextTest()
+	//TimerTest()
+	//TickerTest()
+	GoroutinePoolTest()
 }
