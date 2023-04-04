@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// testArraySliceDict 初始化数组
 func testArraySliceDict() {
 	// 初始化数组
 	var strArray = [10]string{"a", "bc", "def"}

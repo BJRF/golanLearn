@@ -40,4 +40,8 @@ TickerTest.go golang Ticker用法实践
 
 GoroutinePoolTest.go 协程池实现
 
+## 2023.4.4
+
 StringBenchmark_test.go string拼接性能测试
+
+规范项目命名
